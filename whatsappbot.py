@@ -3,9 +3,9 @@
 
 import requests
 
-NEWS_API_KEY = "185260d82d804402a8b96a9173be0c1d"  # From https://newsapi.org
-ULTRAMSG_INSTANCE_ID = "instance126292"  # From https://ultramsg.com
-ULTRAMSG_TOKEN = "k733rjhwbm9c8txc"  # From https://ultramsg.com
+NEWS_API_KEY = ""  # From https://newsapi.org
+ULTRAMSG_INSTANCE_ID = ""  # From https://ultramsg.com
+ULTRAMSG_TOKEN = ""  # From https://ultramsg.com
 TO_PHONE_NUMBER = "918309359937"  # Your WhatsApp number (without +), e.g., 91XXXXXXXXXX
 NUM_ARTICLES = 10  # Number of news articles to fetch
 
